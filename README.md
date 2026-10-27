@@ -561,7 +561,7 @@ If you intend to distribute Slate as an open-source project, add a `LICENSE` fil
 ## Contact & Support
 
 - **Maintainer:** [@nowii-core](https://github.com/nowii-core)
-- **Repository:** Add the devlists-atlas repository.
+- **Repository:** Add the developer-stack-resources repository.
 - **Issues & Feature Requests:** Open an issue in the repository once its URL is configured.
 
 ---
