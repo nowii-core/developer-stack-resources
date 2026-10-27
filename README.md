@@ -548,6 +548,27 @@ A curated, comprehensive collection of tools, software, frameworks, AI resources
 
 3. **Submit** a Pull Request with a clear summary of additions.
 
-##  License
+---
 
-This repository is distributed under the **MIT License**. Feel free to use, modify, and share it.
+## License
+
+No license has been specified in the provided project description.
+
+If you intend to distribute Slate as an open-source project, add a `LICENSE` file and update this section accordingly.
+
+---
+
+## Contact & Support
+
+- **Maintainer:** [@nowii-core](https://github.com/nowii-core)
+- **Repository:** Add the devlists-atlas repository.
+- **Issues & Feature Requests:** Open an issue in the repository once its URL is configured.
+
+---
+
+<div align="center">
+
+
+<sub>Developed by <a href="https://github.com/nowii-core"><b>nowii-core</b></a></sub>
+
+</div>
